@@ -23,6 +23,7 @@
 - GeoBlock
 - News
 - Porn
+- H.O.D.C.A (Hetzner, OVH, Digital Ocean, Cloudflare, AWS + Akamai)
 
 ## Сервисы
 - Cloudflare
@@ -50,6 +51,7 @@
 - Tik-Tok
 - Twitter
 - YouTube
+- Discord (domains only)
 
 #### Russia outside
 Списки российских ресурсов, которые доступны только для российских подсетей. Для людей за границей, которым нужен доступ к российским сервисам.
